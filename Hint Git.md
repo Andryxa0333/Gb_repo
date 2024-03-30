@@ -1,13 +1,25 @@
 # Подсказка по Git
 
-Git init
+```sh
+git init
+```
 
-Git add
+```sh
+git add
+```
 
-Git commit -m "Message"
+```sh
+git commit -m "Message"
+```
 
-Git log
+```sh
+git log
+```
 
-Git log --oneline
+```sh
+git log --oneline
+```
 
+```sh
 git checkout
+```
